@@ -1,0 +1,20 @@
+1. International Space Station (ISS):
+   - NORAD ID: 25544
+
+2. Hubble Space Telescope:
+   - NORAD ID: 20580
+
+3. NOAA Weather Satellites:
+   - NOAA 15 (NORAD ID: 25338)
+
+4. Iridium Communication Satellite (Iridium 1):
+   - NORAD ID: 25471
+
+6. GOES Weather Satellite (GOES 13):
+   - NORAD ID: 29155
+
+7. Tiangong Space Station Modules (Tiangong-1):
+   - NORAD ID: 37820
+
+8. Starlink Satellites (Starlink 1):
+   - NORAD ID: 74001
